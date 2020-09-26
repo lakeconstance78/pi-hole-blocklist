@@ -32,12 +32,7 @@
 84e00-0f767.api.pushwoosh.com
 85otw.voluumtrk3.com
 9to5google.com
-^(.+[_.-])?ad[sxv]?[0-9]*[_.-]
-^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
-^(.+[_.-])?telemetry[_.-]
 ^(www[0-9]*\.)?xn--
-^adim(age|g)s?[0-9]*[_.-]
-^adtrack(er|ing)?[0-9]*[_.-]
 ^advert(s|is(ing|ements?))?[0-9]*[_.-]
 ^aff(iliat(es?|ion))?[_.-]
 ^analytics?[_.-]

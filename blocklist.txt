@@ -33,11 +33,6 @@
 85otw.voluumtrk3.com
 9to5google.com
 ^(www[0-9]*\.)?xn--
-^advert(s|is(ing|ements?))?[0-9]*[_.-]
-^aff(iliat(es?|ion))?[_.-]
-^analytics?[_.-]
-^banners?[_.-]
-^beacons?[0-9]*[_.-]
 ^count(ers?)?[0-9]*[_.-]
 ^track(ers?|ing)?[0-9]*[_.-]
 a-fds.youborafds01.com

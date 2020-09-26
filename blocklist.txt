@@ -33,8 +33,6 @@
 85otw.voluumtrk3.com
 9to5google.com
 ^(www[0-9]*\.)?xn--
-^count(ers?)?[0-9]*[_.-]
-^track(ers?|ing)?[0-9]*[_.-]
 a-fds.youborafds01.com
 a-instartops-002-gyf11-
 a.bf-tools.net
@@ -894,8 +892,6 @@ r.pcgamer.site
 r.srvtrck.com
 r1.computerbild.de
 r2.computerbild.de
-r[0-9-]-sn-[a-z0-9]-[0-9a-z]{4}.googlevideo.com
-radio7.de
 rads.recognified.net
 ram.amunx.de
 rat.fr.eu.criteo.com

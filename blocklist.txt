@@ -485,7 +485,6 @@ buzzfeed.com
 bywe2.byside.com
 c.aaxads.com
 c.amazon-adsystem.com
-c.booking.com
 c.d1272serve.xyz
 c.eu1.dyntrk.com
 c.finative.eu
@@ -2272,7 +2271,6 @@ www.bingapis.com
 www.bloggerei.de
 www.brothersoft.com
 www.buymeacoffee.com
-www.c.booking.com
 www.cdn-net.com
 www.chatbro.com
 www.danasoft.com

@@ -17,6 +17,7 @@
 .*\.pbwstatic\.com
 .*\.stripst\.com
 .*\.doubleclick\.com
+track.*\.\w\w\w?
 0.gravatar.com
 0i0i0i0.com
 1.bp.blogspot.com
@@ -94,8 +95,7 @@ action.dstillery.com
 active-tracking.de
 activity.windows.com
 acw.elsevier.com
-ad.*\.*\.com
-ad.*\.*\.net
+ad.*\.*\.\w\w\w?
 ad.yieldlab.net
 adalliance.profiles.tagger.opecloud.com
 adashx4ae.ut.taobao.com
@@ -2025,9 +2025,6 @@ tpc.googlesyndication.com
 tplinkextender.net
 tr.mediards.com
 tr.snapchat.com
-track.?(ing)?\..*
-track.adform.net
-tracking.intl.miui.com
 trackip.net
 traffic.emsservice.de
 translate.google.com

@@ -17,7 +17,7 @@
 .*\.pbwstatic\.com
 .*\.stripst\.com
 .*\.doubleclick\.com
-.*\.market.xiaomi.com
+
 0.gravatar.com
 0i0i0i0.com
 1.bp.blogspot.com
@@ -95,8 +95,8 @@ action.dstillery.com
 active-tracking.de
 activity.windows.com
 acw.elsevier.com
-ad(.*)?\.*
-ad.doubleclick.net
+ad.*\.*\.com
+ad.*\.*\.net
 ad.yieldlab.net
 adalliance.profiles.tagger.opecloud.com
 adashx4ae.ut.taobao.com
@@ -144,14 +144,7 @@ ams01-search.spotxchange.com
 ams01.sync.search.spotxchange.com
 amzn.to
 ana.whisper.sh
-anal(.*)?\.*
-analytics-api.dvdfab.cn
-analytics.api.myqnapcloud.com
-analytics.ff.avast.com
-analytics.localytics.com
-analytics.moviepilot.de
-analytics.tiktok.com
-analytics.twitter.com
+anal.*\.\w\w\w?
 android.bugly.qq.com
 android.clients.google.com
 android.com

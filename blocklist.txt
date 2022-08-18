@@ -13,10 +13,10 @@
 (\.|^)tsyndicate\.com$
 (^|\.)www\.baidu\.com$
 (^|\.)www\.sina\.com\.cn$
-.*?(\.|^)mmstat\.com$
-.*?(\.|^)pbwstatic\.com$
-.*?(\.|^)stripst\.com$
-.*\.?doubleclick\.net
+.*\.mmstat\.com
+.*\.pbwstatic\.com
+.*\.stripst\.com
+.*\.doubleclick\.com
 .*\.market.xiaomi.com
 0.gravatar.com
 0i0i0i0.com
@@ -121,7 +121,6 @@ aggregator.service.usercentrics.eu
 air.adliners.de
 ajax.cloudflare.com
 alb.reddit.com
-aldi-nord.de
 aldisued.d3.sc.omtrdc.net
 alimama.com
 alive.github.com
@@ -134,8 +133,6 @@ amazo.de
 amazon.partners.tremorhub.com
 amdcopen.m.taobao.com
 amp.akamaized.net
-amp.pm.sourcepoint.
-amp.pm.sourcepoint.mgr.consensu.or
 amp.pm.sourcepoint.mgr.consensu.org
 ampcid.google.de
 ampconfig.sc.omtrdc.net
@@ -160,7 +157,6 @@ android.clients.google.com
 android.com
 androidtvchannels-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
-ao-huren.to
 api-2-0.spot.im
 api-a.op-mobile.opera.com
 api-analytics-us.huami.com
@@ -285,7 +281,6 @@ archive.today
 arminius.io
 arms-retcode-sg.aliyuncs.com
 arms-retcode.aliyuncs.com
-arte.tv
 artfut.com
 arvister.showheroes.com
 as.2020mustang.com
@@ -380,8 +375,6 @@ bitrix.info
 bjim64.jpush.cn
 bjuser.jpush.cn
 blacurlik.com
-blockchain.com
-blockchain.info
 blocklists-settings.prod.mozaws.net
 blocklists.settings.services.mozilla.com
 blogalm.de
@@ -508,7 +501,6 @@ checkip.dyndns.org
 checkpost.club
 chicagotribune.com
 chimpstatic.com
-chip.de
 chng.it
 ci.line-apps.com
 ci.rdtcdn.com
@@ -684,9 +676,7 @@ dfe.mic.mob.com
 dfp.bizx.info
 dgps.support.microsoft.com
 dhl.de
-di-ay666q3u.leasewebultracdn.com
-di-mi68vc46.leasewebultracdn.com
-di-szm339fj.leasewebultracdn.com
+.*.leasewebultracdn.com
 dialogue.sp-prod.net
 diffuser-cdn.app-us1.com
 discogs.com
@@ -699,7 +689,6 @@ dl.dropboxusercontent.com
 dlc2.t-online.de
 dlg-messages.buzzrin.de
 dlmping2.adobe.com
-dmca-images-4kq2g0tcaqp
 dmca-images-4kq2g0tcaqpj02eih0o6.s
 dmd.metaservices.microsoft.com
 dmp.ad4mat.net
@@ -897,10 +886,6 @@ g2a.api.useinsider.com
 g2a.com
 ga.getresponse.com
 gaa.adscale.de
-galleryn0.awemdia.com
-galleryn1.awemdia.com
-galleryn2.awemdia.com
-galleryn3.awemdia.com
 gamefabrique.com
 gameplayapi.intel.com
 gamernetwork.mainroll.com
@@ -909,10 +894,6 @@ gammae.com
 gbc6.fr.eu.criteo.com
 gcdsdk.appsflyer.com
 gdpr-tcfv2.sp-prod.net
-gds1.steampowered.com
-gds2.steampowered.com
-gds3.steampowered.com
-gds4.steampowered.com
 geid.wbtrk.net
 geller-pa.googleapis.com
 generaltracking
@@ -1292,11 +1273,7 @@ messengerview.1talking.net
 met2.hp.com
 meta.wikimedia.org
 meteovista.de
-metric.picodi.net
-metrics-collector-beta.s-onetag.com
-metrics.icloud.com
-metrics.notebooksbilliger.de
-metrics2.data.hicloud.com
+metric.*.*\.*
 mg-p.alcmpn.com
 mi.com
 microntechnology.demdex.net
@@ -2121,7 +2098,6 @@ unitedparcelservice.sc.omtrdc.net
 update.avlyun.sec.miui.com
 upload.fp.measure.office.com
 upload2.fp.measure.office.com
-uploaded.net
 uploadingit.com
 upsells.boldapps.net
 uptime.com

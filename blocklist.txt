@@ -778,7 +778,6 @@ external-frt3-2.xx.fbcdn.net
 ezodn.com
 f-log-at.grammarly.io
 f.gm.mob.com
-f1.parship.com
 f1272serve.xyz
 f1cdn.nsimg.net
 f5.market.xiaomi.com
@@ -854,7 +853,6 @@ fsm.sueddeutsche.de
 fsm1.chip.de
 fsm2.spiegel.de
 fundingchoicesmessages.google.com
-fuq.com
 future-publishing.msgfocus.com
 futureplc.slgnt.eu
 g.alicdn.com
@@ -1571,7 +1569,6 @@ region1.app-measurement.com
 register.appsflyer.com
 relay.userreport.com
 remote-data.asnapieu.com
-report-uri.highwebmedia.com
 report.appmetrica.yandex.net
 reports.crashlytics.com
 request.czilladx.com
@@ -1592,7 +1589,6 @@ ris.api.iris.microsoft.com
 rj.a-mo.net
 rnengage.com
 rollout.ada.support
-roomimg.stream.highwebmedia.com
 rosenberg.appmetrica.yandex.
 rosenberg.appmetrica.yandex.net
 rosetta.prod.ps.welt.de
@@ -2002,7 +1998,6 @@ tls13.taboola.map.fastly.net
 tlx.3lift.com
 tm.ad-srv.net
 tms.nzz.ch
-tms.parship.de
 to.getnitropack.com
 tools.pinpoll.com
 topdisplayformat.com
@@ -2165,7 +2160,6 @@ web.facebook.com
 web.hb.ad.cpe.dotomi.com
 web.vortex.data.msn.com
 webads.bandsintown.com
-webapi.parship.com
 webcompanion.com
 webed.dm-event.net
 webedia-d.openx.net

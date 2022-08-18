@@ -1,6 +1,6 @@
 #https://www.rexegg.com/regex-quickstart.html
 
-
+.*affiliate.*
 (\.|^)2020mustang\.com$
 (\.|^)bmedia\.justservingfiles\.net$
 (\.|^)exosrv\.com$
@@ -20,7 +20,7 @@
 .*\.pbwstatic\.com
 .*\.stripst\.com
 .*\.doubleclick\.com
-track.*\.\w\w\w?
+.*track.*\.\w\w\w?
 0.gravatar.com
 0i0i0i0.com
 1.bp.blogspot.com
@@ -95,7 +95,6 @@ accscdn.m.taobao.com
 acdn.adnxs.com
 acs.m.taobao.com
 action.dstillery.com
-active-tracking.de
 activity.windows.com
 acw.elsevier.com
 ad.*\.*\.\w\w\w?
@@ -116,7 +115,6 @@ ae.nflximg.net
 ae01.alicdn.com
 aefd.nelreports.net
 aff.bstatic.com
-affiliate.voyeur-ho
 affiliatly.com
 afgr1.com
 aggregator.service.usercentrics.eu
@@ -138,7 +136,6 @@ amp.akamaized.net
 amp.pm.sourcepoint.mgr.consensu.org
 ampcid.google.de
 ampconfig.sc.omtrdc.net
-amptrack.bild.de
 ams-ads-cornerstone-pda-creatives-eu.s3.
 ams-bh-bgp.contextweb.com
 ams01-event.spotxchange.com
@@ -430,7 +427,6 @@ c.riskified.com
 c.sayhi.360.cn
 c.sf-syn.com
 c.smartclick.net
-c.trackmytarget.com
 c.xbox.com
 c2.taboola.com
 c2.u5c93.com
@@ -873,7 +869,6 @@ gcdsdk.appsflyer.com
 gdpr-tcfv2.sp-prod.net
 geid.wbtrk.net
 geller-pa.googleapis.com
-generaltracking
 geo-eu.snigelweb.com
 geo.choice.faktor.io
 geo3.ggpht.com
@@ -1084,7 +1079,6 @@ iqdigital-ams.gscontxt.net
 iqdigital.demdex.net
 irqs.ioam.de
 irqs.iocnt.net
-isc-tracking.eventim.com
 isthumbs.glomex.com
 itch.io
 its.tradelab.fr
@@ -1438,7 +1432,6 @@ pixel.adsafeprotected.com
 pixel.augsburger-allgemeine.de
 pixel.consentric.de
 pixel.quantserve.com
-pixel.trackverify.com
 pl15693112.profitablegate.com
 pl15693138.profitablegate.com
 platform-api.sharethis.com
@@ -1469,7 +1462,6 @@ pottervark.stroeerdp.de
 ppp.contentdef.com
 pre.ads.justpremium.com
 prefmgr-cookie.truste-svc.net
-prepaid-global.postaffiliatepro.com
 presence.api.drift.com
 priceline.com
 prism.app-us1.com
@@ -1482,7 +1474,6 @@ privacyportaluat.onetrust.com
 privatestats.whatsapp.net
 pro.ip-api.com
 prod-dub-beacon-1484770602.eu-west-1.elb
-prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 prod-ms.applovin.com
 prod.talk.spiegel.de
 prod.ups-eu-central-1.aolp-ds-prd.aws.oa
@@ -1560,7 +1551,6 @@ rec.smartlook.com
 receiver-hetzner.showheroes.com
 recirculation.spot.im
 reco.hardsextube.com
-record.winbetaffiliates.bg
 reddit-d.openx.net
 redirect.frontend.weborama.fr
 redirector.googlevideo.com
@@ -2070,7 +2060,6 @@ uploadingit.com
 upsells.boldapps.net
 uptime.com
 uptobox.com
-urban-vpn.postaffiliatepro.com
 us-central1-amp-error-reporting.cloudfun
 us-west-2.kinesis.hpanalytics.net
 us.creativecdn.com

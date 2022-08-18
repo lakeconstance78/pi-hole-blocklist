@@ -1215,7 +1215,6 @@ mads.amazon-adsystem.com
 mafo.adalliance.io
 mail.com
 mail.de
-mail.google.com
 mail.yahoo.com
 mailchimp.com
 main.exdynsrv.com
@@ -1465,7 +1464,6 @@ player.glomex.com
 player.h-cdn.com
 player.redpineapplemedia.com
 players.brightcove.net
-plex.tv
 plus.google.com
 plus500.com
 pmc.amp.permutive.com
@@ -1480,7 +1478,6 @@ popcornews.me
 porn.biz
 pornstar-thumb.xhcdn.com
 port.sec.intl.miui.
-posteo.de
 pottervark.stroeerdp.de
 ppp.contentdef.com
 pre.ads.justpremium.com
@@ -2294,7 +2291,6 @@ zhuti.xiaomi.com
 zillow.com
 zipservice.adalliance.io
 zn1ynnliufrct75cb-paypalxm.siteintercept
-zn2rjw8v8ecfgyigt-paypalxm.siteintercept
 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
 zoa.cointelegraph.com
 zononi.com

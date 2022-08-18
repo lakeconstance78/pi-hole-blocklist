@@ -17,7 +17,6 @@
 .*\.pbwstatic\.com
 .*\.stripst\.com
 .*\.doubleclick\.com
-
 0.gravatar.com
 0i0i0i0.com
 1.bp.blogspot.com
@@ -720,8 +719,6 @@ eassos.cn
 easyload.io
 easytomessage.com
 eb2.3lift.com
-ebay-kleinanzeigen.de
-ebay.de
 ebaypayeu-app.quantummetric.com
 ebjvu.cn
 ec.editmysite.com
@@ -1884,7 +1881,7 @@ stadtbremerhaven.di
 star.c10r.facebook.com
 startup.mobile.webvisor.com
 startup.mobile.yandex.net
-stat(.*)?\.*
+stat.*?\.*
 statcounter.com
 static-l3.xvideos-cdn.com
 static-lvlt.xhcdn.com

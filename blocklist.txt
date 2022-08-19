@@ -5,8 +5,9 @@
 (\.|^)bmedia\.justservingfiles\.net$
 (\.|^)exosrv\.com$
 .*(\.|^)fbcdn\.net$
-.*(\.|^)googleadservices\.com$
-.*(\.|^)googlesyndication\.com$
+.*(\.|^)google-analytics.com
+.*(\.|^)googleadservices\.com
+.*(\.|^)googlesyndication\.com
 (\.|^)i\.ytimg\.com$
 (\.|^)justservingfiles\.net$
 (\.|^)livejasmin\.com$
@@ -864,10 +865,7 @@ go.xhamsterlive.com
 gold.xhamsterpremium.com
 goldenfrog.com
 goo.gl
-googel.com
-google-analytics.com
-google-analytics.com
-google.com
+
 google2waycm.netmng.com
 
 googlecommerce.com
@@ -1753,7 +1751,6 @@ ssl.3.damoh.spieletipps.de
 ssl.3.damoh.t-online.de
 ssl.3.damoh.welt.de
 ssl.captcha.qq.com
-ssl.google-analytics.com
 ssl.hurra.com
 ssl.p.jwpcdn.com
 ssl.synovite-scripts.com

@@ -104,7 +104,6 @@
 15-911479.link.iwanttodeliver.com
 1images.cgames.de
 1ts20.top
-2.android.pool.ntp.org
 2.bp.blogspot.com
 21128.resnikscdn.pro
 2bck6naj.stats.lncld.net
@@ -513,7 +512,6 @@ button.loadbee.com
 buyer.dspx.tv
 buymeacoffee.com
 buzzfeed.com
-bw7.com
 bywe2.byside.com
 c.aaxads.com
 c.amazon-adsystem.com
@@ -594,8 +592,6 @@ cgi.connect.qq.com
 chase.com
 chat.freshdesk.com
 chatbro.com
-chaturbate.com
-chaturbate.eu
 chd.stats.paypal.com
 check.ddos-guard.net
 checkip.dyndns.org
@@ -880,8 +876,6 @@ ex.bnbstatic.com
 exo-ring.msedge.net
 exp.host
 exp.wg.spotify.com
-expedia.com
-experience.tinypass
 experience.tinypass.com
 express.met.vgwort.de
 ext-sq.squarespace.com
@@ -892,8 +886,6 @@ f1.parship.com
 f1272serve.xyz
 f1cdn.nsimg.net
 f5.market.xiaomi.com
-facebook.com
-fapnado.xxx
 fashiondaily.tv
 fast.appcues.com
 fast.fonts.net
@@ -968,7 +960,6 @@ fsm.sueddeutsche.de
 fsm1.chip.de
 fsm2.spiegel.de
 fundingchoicesmessages.google.com
-fuq.com
 future-publishing.msgfocus.com
 futureplc.slgnt.eu
 g.alicdn.com
@@ -1107,7 +1098,6 @@ i.bcicdn.com
 i.bimbolive.com
 i.imgur.com
 i.informer.com
-i.instagram.com
 i.loopme.me
 i.realytics.io
 i.scdn.co
@@ -1251,13 +1241,8 @@ l.facebook.com
 l.getsitecontrol.com
 l.gm.mob.com
 l3.aaxads.com
-l96jc26jvj.kameleoon.eu
-l9bjkkhaycw6f8f4.soundcloud.com
-ladies-forum.de
-ladies.de
 lasagneandands.com
 launches.appsflyer.com
-laut.fm
 lcdn.tsyndicate.com
 legal.anycdndata.info
 lgtvonline.lge.com
@@ -1289,7 +1274,6 @@ locate.pricespider.com
 location.teslamotors.com
 log.core.cloud.vewd.com
 log.streamagent.sen
-log.tapatalk.com
 login.live.com
 login.microsoftonline.com
 login.yahoo.com
@@ -1367,7 +1351,6 @@ metrics.icloud.com
 mg-p.alcmpn.com
 microntechnology.demdex.net
 microsoftmscompoc.tt.om
-middycdn-a.akamaihd
 middycdn-a.akamaihd.net
 mini5.opera-mini.net
 mitsubishi.de
@@ -1563,12 +1546,10 @@ pochta.ru
 pof.com
 pointman.alibaba.com
 polyfill.twitchsvc.net
-pool.ntp.org
 pool.supportxmr.com
 popads.media
 popcornews.me
 porn.biz
-pornstar-thumb.xhcdn.com
 port.sec.intl.miui.
 pottervark.stroeerdp.de
 ppp.contentdef.com
@@ -1701,8 +1682,6 @@ rj.a-mo.net
 rnengage.com
 ro.xhamster.com
 rollout.ada.support
-roomimg.stream.highwebmedia.com
-rosenberg.appmetrica.yandex.
 rosenberg.appmetrica.yandex.net
 rosetta.prod.ps.welt.de
 router.bittorrent.com
@@ -1717,7 +1696,6 @@ rtalabel.org
 rtb-europe-west1.openx.net
 rtb.4finance.com
 rtc.dymatrix.cloud
-rtl.de
 rtxpx-a.akamaihd.net
 ru.xhamster.com
 ruler.nyltx.com
@@ -1984,7 +1962,6 @@ startup.mobile.yandex.net
 stat.*?\.*
 statcounter.com
 static-l3.xvideos-cdn.com
-static-lvlt.xhcdn.com
 static.chartbeat.com
 static.cleverpush.com
 static.cloudflareinsights.com
@@ -2027,7 +2004,6 @@ survio.com
 sv.xhamster.com
 svcs.ebay.com
 sw88.go.com
-swasc.kaufland.com
 swingerglueck.de
 swp.de
 sy.eu.angsrvr.com
@@ -2069,7 +2045,6 @@ t4.market.mi-img.com
 t5.a.market.xiaomi.com
 t5.market.mi-img.com
 t7.a.market.xiaomi.com
-tabulose-huren.com
 tag.md-nx.com
 tagesgeldvergleich.net
 tagger.opecloud.com
@@ -2077,7 +2052,7 @@ tagman.britishairways.com
 tags.tiqcdn.com
 talk.google.com
 talk.krone.at
-tapatalk.com
+
 tapi.meinprospekt.de
 target.microsoft.com
 targetemsecure.blob.core.windows.net
@@ -2096,13 +2071,6 @@ telemetry.tradingview.com
 thaifriendly.com
 the-eye.eu
 thumb-l3.flixcdn.com
-thumb-lvlt.xhcdn.com
-thumb-user.xhcdn.com
-thumb-v-cl.xhcdn.com
-thumb-v1.xhcdn.com
-thumb-v2.xhcdn.com
-thumb-v3.xhcdn.com
-thumb-v4.xhcdn.com
 thumb.hollywood.to
 thumbcon.mydirtyhobby.com
 thunderdom-v1.sftapi.com
@@ -2172,8 +2140,6 @@ u.heatmap.it
 u.openx.net
 u.startup.mobile.webvisor.com
 ub.gutefrage.net
-ubuntu.com
-ubuntuusers.de
 uciservice.com
 udc.yahoo.com
 udm.scorecardresearch.com

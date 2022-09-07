@@ -76,7 +76,7 @@
 #^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
 #^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
 #^(.+[-_.])??telemetry[-.]
-^(.+[-_.])??xn--
+#^(.+[-_.])??xn--
 ^(.+\.)?amp\..+\.com$
 ^(.+\.)?amp\.cloudflare\.com$
 ^(.+\.)?ampproject\.org$
@@ -782,7 +782,7 @@ dnsseed.bluematt.me
 dodownload.com
 donate.xmr-stak.net
 dorangesource.alicdn.com
-double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
+#double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 download.electrum.org
 download.informer.com
 dpcomepost.tt.omtrdc.net
@@ -1959,7 +1959,7 @@ stadtbremerhaven.di
 star.c10r.facebook.com
 startup.mobile.webvisor.com
 startup.mobile.yandex.net
-stat.*?\.*
+#stat.*?\.*
 statcounter.com
 static-l3.xvideos-cdn.com
 static.chartbeat.com

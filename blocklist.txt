@@ -2,11 +2,11 @@
 #https://regex101.com/
 
 .*(\.|^)fbcdn\.net$
-.*(\.|^)google-analytics.com
+#.*(\.|^)google-analytics.com
 .*(\.|^)googleadservices\.com
 .*(\.|^)googlesyndication\.com
 .*\.doubleclick\.com
-.*\.leasewebultracdn.com
+#.*\.leasewebultracdn.com
 .*\.mmstat\.com
 .*\.pbwstatic\.com
 .*\.stripst\.com
@@ -73,9 +73,9 @@
 (^|\.)www\.baidu\.com$
 (^|\.)www\.sina\.com\.cn$
 (google|partner|pub)-{0,}ads{0,}-{0,}(apis{0,})\.[a-z]{2,7}$
-^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
-^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
-^(.+[-_.])??telemetry[-.]
+#^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
+#^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
+#^(.+[-_.])??telemetry[-.]
 ^(.+[-_.])??xn--
 ^(.+\.)?amp\..+\.com$
 ^(.+\.)?amp\.cloudflare\.com$

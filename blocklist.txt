@@ -1273,8 +1273,6 @@ ls.getresponse.com
 lu.api.mega.co.nz
 lyr.pubmatic.com
 m.addthis.com
-m.facebook.com
-m.ladies.de
 m.stripe.com
 m.stripe.network
 m2.nsimg.net
@@ -1382,7 +1380,6 @@ mymonero.com
 n.dyntrk.com
 n.nativendo.de
 n1272serv.xyz
-nachtladies.de
 nas1.flashx.net
 native-commerce.com
 nativesdks.mparticle.com

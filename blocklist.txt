@@ -1,7 +1,7 @@
 #https://regex101.com/
 #https://rexegg.com/regex-quickstart.html
 
-#(^|\.)facebook\.[A-Za-z0-9]+$
+(^|\.)facebook\.[A-Za-z0-9]+$
 #(^|\.)fbcdn\.[A-Za-z0-9]+$
 #.*(\.|^)fbcdn\.net$
 #.*(\.|^)google-analytics.com

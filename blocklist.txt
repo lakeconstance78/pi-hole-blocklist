@@ -54,7 +54,7 @@
 (^|\.)bugsnag\.com$
 #(^|\.)facebook\.[A-Za-z0-9]+$
 (^|\.)fb\.[A-Za-z0-9]+$
-(^|\.)fbcdn\.[A-Za-z0-9]+$
+#(^|\.)fbcdn\.[A-Za-z0-9]+$
 (^|\.)fbsbx\.com$
 (^|\.)fbsbx\.com\.online-metrix\.net$
 (^|\.)instagram\.com$
@@ -70,7 +70,7 @@
 (^|\.).baidu\.com$
 (^|\.).sina\.com\.cn$
 (google|partner|pub)-{0,}ads{0,}-{0,}(apis{0,})\.[a-z]{2,7}$
-.*(\.|^)fbcdn\.net$
+#.*(\.|^)fbcdn\.net$
 .*(\.|^)googleadservices\.com
 .*(\.|^)googlesyndication\.com
 .*\.doubleclick\.com
@@ -1740,8 +1740,8 @@ sc-static.net
 sc.thaifriendly.com
 scdn.cxense.com
 schrotty.la.welt.de
-scontent-frx5-1.xx.fbcdn.net
-scontent.xx.fbcdn.net
+#scontent-frx5-1.xx.fbcdn.net
+#scontent.xx.fbcdn.net
 screenshots.firefox.com
 script-at.iocnt.net
 script.4dex.io
@@ -1943,7 +1943,7 @@ static.hotjar.com
 static.licdn.com
 static.parastorage.com
 static.wixstatic.com
-static.xx.fbcdn.net
+#static.xx.fbcdn.net
 stats.g.doubleclick.net
 stats.wp.com
 stc.fx.fastcontentdelivery.com
@@ -2195,7 +2195,7 @@ video-library-mirror-3.showheroes.com
 video-library-mirror-8.showheroes.com
 video.klatsch-tratsch.de
 video.wisst-ihr-noch.de
-video.xx.fbcdn.net
+#video.xx.fbcdn.net
 videoembed.chip.de
 videointelligence-d.openx.net
 videos.chip.de

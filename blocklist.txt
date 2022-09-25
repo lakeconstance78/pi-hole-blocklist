@@ -52,7 +52,7 @@
 (\.|^)tsyndicate\.com$
 (^|\.)buffpanel\.com$
 (^|\.)bugsnag\.com$
-(^|\.)facebook\.[A-Za-z0-9]+$
+#(^|\.)facebook\.[A-Za-z0-9]+$
 (^|\.)fb\.[A-Za-z0-9]+$
 (^|\.)fbcdn\.[A-Za-z0-9]+$
 (^|\.)fbsbx\.com$
@@ -234,7 +234,6 @@ android.com
 androidpay-users-pa.googleapis.com
 androidtvchannels-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
-ao-huren.to
 ap.lijit.com
 api-2-0.spot.im
 api-a.op-mobile.opera.com
@@ -272,7 +271,7 @@ api.device.xiaomi.n
 api.device.xiaomi.net
 api.dmp.pinpoll.com
 api.edgeoffer.microsoft.com
-api.facebook.com
+#api.facebook.com
 api.feedad.com
 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 api.flattr.com

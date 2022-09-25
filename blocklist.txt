@@ -410,9 +410,9 @@ axelspringerse.demdex.net
 az-sr-eu.abtasty.com
 az601263.vo.msecnd.net
 azwancan.trafficmanager.net
-b-api.facebook.com
-b-facebook.com
-b-graph.facebook.com
+#b-api.facebook.com
+#b-facebook.com
+#b-graph.facebook.com
 b.bdstatic.com
 b.big7.com
 b.hatena.ne.jp
@@ -652,7 +652,7 @@ config.playwire.com
 config2.mparticle.com
 congstar.de
 connect.ekomi.de
-connect.facebook.net
+#connect.facebook.net
 connect.intl.rom.miui.com
 connect.nosto.com
 connect.rom.miui.co
@@ -1077,7 +1077,7 @@ hotnewhiphop.com
 htlb.casalemedia.com
 http-test1.hola.org
 http-test1.luminatinet.com
-hu-hu.facebook.com
+#hu-hu.facebook.com
 hubt.pornhub.com
 hxd7ljfunr.kameleoon.eu
 i.bangassets.com
@@ -1221,7 +1221,7 @@ klatsch-tratsch.de
 knl.mntzrlt.net
 kotaku.com
 kv101-prod.do.dsp.m
-l.facebook.com
+#l.facebook.com
 l.getsitecontrol.com
 l.gm.mob.com
 l3.aaxads.com
@@ -1238,7 +1238,7 @@ lightstep.medium.systems
 linkedin.com
 linuxconfig.org
 list-manage.agle1.cc
-lithium.facebook.com
+#lithium.facebook.com
 live-detector.svc.transifex.net
 live.adyen.com
 live.demand.supply
@@ -1266,7 +1266,7 @@ logs1409.xiti.com
 logs1413.xiti.com
 logx.optimizely.com
 longitudeads-com.videoplayerhub.com
-lookaside.facebook.com
+#lookaside.facebook.com
 loox.io
 ls.getresponse.com
 lu.api.mega.co.nz
@@ -1337,7 +1337,7 @@ mitsubishi.de
 mix.com
 mjolnir.mopinion.com
 mobile.emsecure.net
-mobile.facebook.com
+#mobile.facebook.com
 mobile.launchdarkly.com
 mobile.pipe.aria.microsoft.c
 mobile.slgnt.eu
@@ -1357,8 +1357,8 @@ mozdev.org
 mozilla.cloudflare-dns.com
 mozilla.org
 mpnv2-prod-c.alcmpn.com
-mqtt-mini.facebook.com
-mqtt-p4.facebook.com
+#mqtt-mini.facebook.com
+#mqtt-p4.facebook.com
 ms.applovin.com
 ms.applvn.com
 ms.feedly.com
@@ -1676,7 +1676,7 @@ rum.7tv.de
 rum.logsss.com
 rum.perfops.net
 rumcdn.geoedge.be
-rupload.facebook.com
+#rupload.facebook.com
 rvty.net
 s-v6exp1-ds.metric.gstatic.com
 s.7tv.de
@@ -1928,7 +1928,7 @@ ssl.synovite-scripts.com
 st.getsitecontrol.c
 stack-sonar.com
 stadtbremerhaven.di
-star.c10r.facebook.com
+#star.c10r.facebook.com
 startup.mobile.webvisor.com
 startup.mobile.yandex.net
 statcounter.com
@@ -2226,7 +2226,7 @@ wbtrkk.deutschlandcard.de
 wchat.freshchat.com
 weather.adalliance.io
 web-vitals.booking.com
-web.facebook.com
+#web.facebook.com
 web.hb.ad.cpe.dotomi.com
 web.vortex.data.msn.com
 webads.bandsintown.com
@@ -2333,8 +2333,8 @@ ysa-static.passport.yandex.ru
 yvmads.com
 yxsu5ufd2m.kameleoon.eu
 yznrgxhu.klarnaservices.com
-z-m.c10r.facebook.com
-z-p3-graph.facebook.com
+#z-m.c10r.facebook.com
+#z-p3-graph.facebook.com
 z.ilovejuju.be
 z.moatads.com
 z.omappapi.com

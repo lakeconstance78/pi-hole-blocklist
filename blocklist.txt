@@ -1234,7 +1234,6 @@ googletagservices.com
 goto.walmart.com
 gotporn.com
 gp.cointelegraph.com
-graph.instagram.com
 graphql.usercentrics.eu
 gredgar-prevalid.com
 green.erne.co
@@ -1302,7 +1301,6 @@ i.bimbolive.com
 i.clean.gg
 i.imgur.com
 i.informer.com
-i.instagram.com
 i.isnssdk.com
 i.liadm.com
 i.loopme.me
@@ -1537,8 +1535,6 @@ manager.met.vgwort.de
 mandrillapp.com
 manifest.prod.boltdns.net
 map.go.affec.tv
-maps.googleapis.com
-maps.gstatic.com
 marfeel-d.openx.net
 marfeel.mgr.consens
 mark.reevoo.com

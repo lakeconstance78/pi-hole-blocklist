@@ -808,10 +808,6 @@ client-s.gateway.messenger.live.com
 client.hip.live.com
 client.hola.org
 client.px-cloud.net
-clients1.google.com
-clients2.google.com
-clients3.google.com
-clients4.google.com
 cloudconfig.mta.qq.com
 cloudsearch.googleapis.com
 cm-supply-web.gammaplatform.com
@@ -849,7 +845,6 @@ collector.github.com
 collector.xhamster.com
 collector.xhamster.desi
 combine.asnapieu.com
-combine.urbanairship.com
 comcast.net
 comcluster.cxense.com
 commondatastorage.googleapis.com
@@ -1196,7 +1191,6 @@ fastlane.rubiconproject.com
 fastly-insights.com
 favoriten.de
 fbc.wcfbc.net
-fc.vodafone.de
 fcapi.jpush.cn
 fcm.googleapis.com
 fdfe4ed62699.cdn4.forter.com
@@ -1652,10 +1646,8 @@ locate.pricespider.com
 location.teslamotors.com
 log.core.cloud.vewd.com
 log.streamagent.sen
-log.tapatalk.com
 logger.goeuro.com
 login.microsoftonline.com
-login.yahoo.com
 logos.affili.net
 logs.amap.com
 logs.browser-intake-datadoghq.com
@@ -1689,7 +1681,6 @@ mail-ads.google.com
 mailchimp.com
 main.exdynsrv.com
 main.realsrv.com
-mamba.ru
 manage.devcenter.microsoft.com
 manager.met.vgwort.de
 mandrillapp.com
@@ -2677,7 +2668,6 @@ tags-eu.tiqcdn.com
 tags.bluekai.com
 tags.crwdcntrl.net
 tags.refinery89.com
-tags.tiqcdn.com
 talk.google.com
 talk.krone.at
 tamgrt.com
@@ -2881,7 +2871,6 @@ vd.7vid.net
 vent.qz.com
 verification-va.byteoversea.com
 verticalresponse.com
-vfd2dyn.vodafone.de
 vfthr.com
 vg02.met.vgwort.de
 vg03.met.vgwort.de

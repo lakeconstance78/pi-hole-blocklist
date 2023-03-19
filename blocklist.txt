@@ -389,7 +389,7 @@ app.adjust.world
 app.backinstock.org
 app.cdn.lookbookhq.com
 app.codefund.io
-app.eu.adjust.com
+
 app.exitbee.com
 app.hubspot.com
 app.mailerlite.com
@@ -773,7 +773,6 @@ cms.quantserve.com
 cnbj1.fds.api.xiaomi.com
 cnet.cbsi.com
 cnt.wetteronline.de
-cnt.xhamster.com
 co.la.welt.de
 cockpit.symplr.de
 cocoleech.com
@@ -791,8 +790,6 @@ collector-pxikkul2rm.px-cloud.net
 collector.*\.*\.\w\w\w?
 collector.brandmetrics.com
 collector.github.com
-collector.xhamster.com
-collector.xhamster.desi
 combine.asnapieu.com
 comcast.net
 comcluster.cxense.com
@@ -852,7 +849,6 @@ creative.mlsat02.de
 creative.stripchat.com
 creativecdn.com
 creatives.sascdn.com
-creatorsblog.xhamster.com
 crengate.com
 criteo-partners.tremorhub.com
 criteo-sync.teads.tv
@@ -1262,7 +1258,6 @@ go.hpyrdr.com
 go.onelink.me
 go.skimresources.co
 go.stripchat.com
-go.xhamster.com
 go.xhamsterlive.com
 go.xlirdr.com
 go.xlivrdr.com
@@ -2499,7 +2494,6 @@ stun.l.google.com
 stun.services.mozilla.com
 sucmetrics.hypovereinsbank.de
 sueddeutsche-de.sueddeutsche.de
-suggestions.xhamster.com
 suite11.emarsys.net
 supply.inmobicdn.net
 support.ccbill.com
@@ -2778,7 +2772,7 @@ usemaxserver.de
 usenetoffer.download
 user-rating.burda-forward.de
 userlike-cdn-widgets.s3-eu-west-1.amazon
-userlocation.googleapis.com
+
 usermatch.targeting.unrulymedia.com
 userreport.com
 uss.xplosion.de
@@ -3013,16 +3007,14 @@ zononi.com
 
 #UPDATE 19.03.2023
 connectivitycheck.gstatic.com
-userlocation.googleapis.com
+
 optimizationguide-pa.googleapis.com
 fcm.googleapis.com
 dit.whatsapp.net
 android-context-data.googleapis.com
 ssl.google-analytics.com
-graph.facebook.com
 federatedml-pa.googleapis.com
 sdkconfig.ad.intl.xiaomi.com
-b-graph.facebook.com
 androidtvchannels-pa.googleapis.com
 firebaseinstallations.googleapis.com
 www.google-analytics.com
@@ -3033,7 +3025,6 @@ clients3.google.com
 android.clients.google.com
 js-agent.newrelic.com
 tracking.intl.miui.com
-graph.instagram.com
 uts-front.line-apps.com
 geller-pa.googleapis.com
 googleads.g.doubleclick.net
@@ -3065,7 +3056,6 @@ region1.app-measurement.com
 cdn.quantummetric.com
 mon.isnssdk.com
 beacons.gvt2.com
-web.facebook.com
 fonts.googleapis.com
 aax-eu.amazon-adsystem.com
 bam.nr-data.net
@@ -3100,7 +3090,6 @@ h-sdk.online-metrix.net
 m.api.forter.com
 imasdk.googleapis.com
 history.google.com
-chaturbate.eu
 beacons5.gvt3.com
 app.adjust.world
 app.adjust.net.in
@@ -3142,7 +3131,6 @@ android.bugly.qq.com
 mads.amazon-adsystem.com
 ade.googlesyndication.com
 cdn.jsdelivr.net
-scontent.xx.fbcdn.net
 nexusrules.officeapps.live.com
 s.adx.opera.com
 irqs.ioam.de
@@ -3169,7 +3157,6 @@ router.utorrent.com
 router.bittorrent.com
 player.glomex.com
 newsstand.googleusercontent.com
-mail-attachment.googleusercontent.com
 find.api.micloud.xiaomi.net
 device-api.urbanairship.com
 bibo.api.swiftkey.com
@@ -3245,7 +3232,6 @@ api.gallery.intl.miui.com
 api.flattr.com
 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 anonym.data.funkedigital.de
-www.xvideos.com
 www.asadcdn.com
 ws-eu.pusher.com
 widgets.outbrain.com
